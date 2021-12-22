@@ -1,2 +1,3 @@
 # ReactProjects
-Created with CodeSandbox
+
+An Image slider and counter using useState() hook
